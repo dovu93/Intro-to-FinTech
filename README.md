@@ -1,4 +1,4 @@
-# Intro-to-FinTech
+# Intro to FinTech Assignment
 
 ## Overview and Origin
 
