@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 
-* Name of company
+* Barclays PLC
 
-* When was the company incorporated?
+* November 17, 1690 (1)
 
-* Who are the founders of the company?
+* John Freame and Thomas Gould (1)
 
 * How did the idea for the company (or project) come about?
 
@@ -50,3 +50,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+##Works Cited
+1 Wikipedia
