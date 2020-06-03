@@ -54,3 +54,5 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Works Cited
 * 1. Wikipedia
+* 2. Barclays Website
+* 3. Some website
