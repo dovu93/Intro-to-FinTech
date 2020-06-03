@@ -52,5 +52,5 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 
 
-##Works Cited
-1 Wikipedia
+## Works Cited
+* 1. Wikipedia
