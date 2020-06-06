@@ -27,7 +27,7 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-  * 
+  * Initially they were helping students pay for tuition through a low interest rate. Now they are an all in one financial entity. Providing services like a major bank without the brick and mortar restriction. 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -36,22 +36,22 @@ What solution does this company offer that their competitors do not or cannot of
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-  * 
+  * Viewport Meta, Iphone/Mobile Compatible, Google Analytics (iii)
 
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
  
-  * 
+  * Wealth Management, Lending, Personal Finance, Robo-advising.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-  * 
+  * Alternative lending - with the addition of technology, we are capable of lending or borrowing from other cusomers and not restricted to banks. Money Trasnfer - with the introduction of Zelle and CashApp, we're able to transfer money from one individual to another without writing a check and handing it over. Mobile Applications - With mobile applications from a bank, we're essentially able to do everything at a brick and mortar location in the comfort of our own home. (v)
 
 * What are the other major companies in this domain?
 
-  * Affirm, Bankrate, Fannie Mae, Quicken Loans, Lending Club and Ant Financial.
+  * Avant, Lending Club, Upstart Network, LendingTree, Common Bond.(iv) Ant Financial
 
 
 ## Results
@@ -91,4 +91,7 @@ What solution does this company offer that their competitors do not or cannot of
 ## Works Cited
 * 1. Wikipedia - https://en.wikipedia.org/wiki/LendingTree
 * 2. Crunchbase - https://www.crunchbase.com/organization/social-finance#section-funding-rounds
-* 3. Some website
+* 3. Crunchbase - https://www.crunchbase.com/organization/social-finance#section-mobile-app-metrics-by-apptopia
+* 4. Craft - https://craft.co/sofi/competitors
+* 5. Forbes - https://www.forbes.com/sites/lawrencewintermeyer/2019/12/26/ten-years-of-fintech-megatrends-for-the-next-decade/#2155058818aa
+
