@@ -4,7 +4,7 @@
 
 * Name of company
 
-  * Social Finance, Inc.
+  * Social Finance, Inc. (SoFi)
 
 * When was the company incorporated?
 
@@ -58,30 +58,30 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What has been the business impact of this company so far?
 
-  * 
+  * By providing a refreshing take on banks, SoFi has introduced a new take on what we believed to be banking. By providing an all encompassing virtual experience when refinancing your student loans, they've changed the way major banks have done business in the past. Not only is SoFi focused on loans, but they're also focused on creating a community of early professionals that help one another out. (vii)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-  * 
-
+  *
+  
 * How is your company performing relative to competitors in the same domain?
 
-  * 
+  * Relatively well. Within the original focus group of Millenials, SoFi has 6.5% of the market compared to LendKeys' 4.6% and CommonBonds' 2.7%. They also edge out CommonBond and LendKey when it comes to Gen Xers and Boomers when deciding to borrow money to go back to school. (x)
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-  * 
+  * I would advise to have an inperson chat feature on the home page. Looking at the homepage they have quite a lot of offerings and having a chat feature where you're able to speak to someone could help make the decision of switching over easier. 
 
 * Why do you think that offering this product or service would benefit the company?
 
-  * 
+  * SoFi has mentioned in the past that they pride themselves on evaluting each application on a case by case scenario. Having a chat feature would further their claims about having a relationship with the individual and building a community. Instead of viewing us as a number. 
 
 * What technologies would this additional product or service utilize?
 
-  * 
+  * Web-based application where someone can be online to chat with. 
 
 * Why are these technologies appropriate for your solution?
 
@@ -98,4 +98,5 @@ What solution does this company offer that their competitors do not or cannot of
 * 7. The Financial Brand - https://thefinancialbrand.com/65922/sofi-digital-banking-fintech-competition/
 * 8. Student Loan Hero - https://studentloanhero.com/featured/what-is-sofi-super-bowl-commercial/
 * 9. Stackshare - https://stackshare.io/sofi/sofi
-* 10. 
+* 10. LendKey - https://www.lendkey.com/wp-content/uploads/2018/11/18-1107-Student-Loan-Lifetime-Value.pdf
+* 11. 
