@@ -20,7 +20,7 @@
 
 * How is the company funded? How much funding have they received?
 
-  * Initially they were being funded by alumnis. (i) Since then they have gotten investors. They have raised a total of $2.5 Billion through 14 rounds of investments. (ii)
+  * Initially they were being funded by alumnus. (i) Since then they have gotten investors. They have raised a total of $2.5 Billion through 14 rounds of investments. (ii)
 
 
 ## Business Activities:
@@ -32,7 +32,7 @@
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-  * They are targeting the everyday cusomer, before they were targeting student loans of professionals poised to make lots of money. (vi) They're treating their customers as humans during the loan application process instead of a number as most traditional banks would. They provide you a loan when others would reject. They also don't pull your credit scores to identify a rate for you. (viii)
+  * They are targeting the everyday consumer, before they were targeting student loans of professionals poised to make lots of money. (vi) They're treating their customers as humans during the loan application process instead of a number as most traditional banks would. They provide you a loan when others would reject. They also don't pull your credit scores to identify a rate for you. (viii)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
@@ -47,7 +47,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-  * Alternative lending - with the addition of technology, we are capable of lending or borrowing from other cusomers and not restricted to banks. Money Trasnfer - with the introduction of Zelle and CashApp, we're able to transfer money from one individual to another without writing a check and handing it over. Mobile Applications - With mobile applications from a bank, we're essentially able to do everything at a brick and mortar location in the comfort of our own home. (v)
+  * Alternative lending - with the addition of technology, we are capable of lending or borrowing from other consumers and not restricted to banks. Money Transfer - with the introduction of Zelle and CashApp, we're able to transfer money from one individual to another without writing a check and handing it over. Mobile Applications - With mobile applications from a bank, we're essentially able to do everything at a brick and mortar location in the comfort of our own home. (v)
 
 * What are the other major companies in this domain?
 
@@ -73,15 +73,15 @@ What solution does this company offer that their competitors do not or cannot of
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-  * I would advise to have an inperson chat feature on the home page or possibly through the app. Looking at the homepage they have quite a lot of offerings and having a chat feature where you're able to speak to someone could help make the decision of switching over easier. Or possibly have a virtual set up ready. With the introduction of the Hololens 2 by Microsoft, SoFi could potentially create a virtual environment where customers can go and ask questions about their different offerings. 
+  * I would advise to have an in person chat feature on the home page or possibly through the app. Looking at the homepage they have quite a lot of offerings and having a chat feature where you're able to speak to someone could help make the decision of switching over easier. Or possibly have a virtual set up ready. With the introduction of the Hololens 2 by Microsoft, SoFi could potentially create a virtual environment where customers can go and ask questions about their different offerings. 
 
 * Why do you think that offering this product or service would benefit the company?
 
-  * SoFi has mentioned in the past that they pride themselves on evaluting each application on a case by case scenario. Having a chat feature would further their claims about having a relationship with the individual and building a community. Instead of viewing applicants as a number. With the virtual environment, applicants can put a face to a name and feel more comfortable about selecting SoFi as their lending provider. 
+  * SoFi has mentioned in the past that they pride themselves on evaluating each application on a case by case scenario. Having a chat feature would further their claims about having a relationship with the individual and building a community. Instead of viewing applicants as a number. With the virtual environment, applicants can put a face to a name and feel more comfortable about selecting SoFi as their lending provider. 
 
 * What technologies would this additional product or service utilize?
 
-  * Web-based application where someone can be online to chat with. Gyroscopes, motion sensors, projections, would be some needed technology to create a virtual environment. The applicants would only need to acquire a Hololens 2 or similiar device to be able to hook up to the internet and connect virtually.
+  * Web-based application where someone can be online to chat with. Gyroscopes, motion sensors, projections, would be some needed technology to create a virtual environment. The applicants would only need to acquire a Hololens 2 or similar device to be able to hook up to the internet and connect virtually.
 
 * Why are these technologies appropriate for your solution?
 
