@@ -2,13 +2,14 @@
 
 ## Overview and Origin
 
-* Barclays PLC
+* LendingTree
 
-* November 17, 1690 (1)
+* 1996 (i)
 
-* John Freame and Thomas Gould (1)
+* Doug Ledba (i)
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? 
+Doug was buying his first house and realized how frustrating and time consuming it was shopping around for mortgages at different banks. He realized if someone with his financial accumen was finding it frustrating, the average consumer would find it more frustrating. Thus he created CreditSource that later became known as LendingTree.
 
 * How is the company funded? How much funding have they received?
 
