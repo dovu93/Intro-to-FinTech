@@ -62,7 +62,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-  *
+  * Application approval rate, customer acquisition cost, abandoned loan rate, average origination value.(xi) SoFi's performance on the metrics aren't readily available to the public. However SoFi did publish a blog about their 2019 year in review. In the blog they focused mainly on the customers and what their financial goals were and how SoFi helped out. Showcasing the personal interaction that they pride themselves on. (xii)
   
 * How is your company performing relative to competitors in the same domain?
 
@@ -73,19 +73,19 @@ What solution does this company offer that their competitors do not or cannot of
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-  * I would advise to have an inperson chat feature on the home page. Looking at the homepage they have quite a lot of offerings and having a chat feature where you're able to speak to someone could help make the decision of switching over easier. 
+  * I would advise to have an inperson chat feature on the home page or possibly through the app. Looking at the homepage they have quite a lot of offerings and having a chat feature where you're able to speak to someone could help make the decision of switching over easier. Or possibly have a virtual set up ready. With the introduction of the Hololens 2 by Microsoft, SoFi could potentially create a virtual environment where customers can go and ask questions about their different offerings. 
 
 * Why do you think that offering this product or service would benefit the company?
 
-  * SoFi has mentioned in the past that they pride themselves on evaluting each application on a case by case scenario. Having a chat feature would further their claims about having a relationship with the individual and building a community. Instead of viewing us as a number. 
+  * SoFi has mentioned in the past that they pride themselves on evaluting each application on a case by case scenario. Having a chat feature would further their claims about having a relationship with the individual and building a community. Instead of viewing applicants as a number. With the virtual environment, applicants can put a face to a name and feel more comfortable about selecting SoFi as their lending provider. 
 
 * What technologies would this additional product or service utilize?
 
-  * Web-based application where someone can be online to chat with. 
+  * Web-based application where someone can be online to chat with. Gyroscopes, motion sensors, projections, would be some needed technology to create a virtual environment. The applicants would only need to acquire a Hololens 2 or similiar device to be able to hook up to the internet and connect virtually.
 
 * Why are these technologies appropriate for your solution?
 
-  * 
+  * These technologies are needed to communicate virtually. 
 
 
 ## Works Cited
@@ -99,4 +99,5 @@ What solution does this company offer that their competitors do not or cannot of
 * 8. Student Loan Hero - https://studentloanhero.com/featured/what-is-sofi-super-bowl-commercial/
 * 9. Stackshare - https://stackshare.io/sofi/sofi
 * 10. LendKey - https://www.lendkey.com/wp-content/uploads/2018/11/18-1107-Student-Loan-Lifetime-Value.pdf
-* 11. 
+* 11. Lightico - https://www.lightico.com/blog/lending-kpis-most-important/
+* 12. SoFi - https://www.sofi.com/blog/2019-year-in-review/
