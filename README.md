@@ -4,21 +4,23 @@
 
 * Name of company
 
-  * LendingTree
+  * Social Finance, Inc.
 
 * When was the company incorporated?
 
-  * 1996 (i)
+  * August 2011 (i)
 
 * Who are the founders of the company?
 
-  * Doug Ledba (i)
+  * Mike Cagney, Dan Macklin, James Finnigan and Ian Brady (i)
 
 * How did the idea for the company (or project) come about? 
 
-  * Doug was buying his first house and realized how frustrating and time consuming it was shopping around for mortgages at different banks. He realized if someone with his financial accumen was finding it frustrating, the average consumer would find it more frustrating. Thus he created CreditSource that later became known as LendingTree. (i)
+  * Four students met up and thought of more affordable options for other students to pay for their education. They met with alumni and initially got $2 million to pilot the program. (i)
 
 * How is the company funded? How much funding have they received?
+
+  * Initially they were being funded by alumnis. (i) Since then they have gotten investors. They have raised a total of $2.5 Billion through 14 rounds of investments. (ii)
 
 
 ## Business Activities:
@@ -49,7 +51,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What are the other major companies in this domain?
 
-  * 
+  * Affirm, Bankrate, Fannie Mae, Quicken Loans, Lending Club and Ant Financial.
 
 
 ## Results
@@ -88,5 +90,5 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Works Cited
 * 1. Wikipedia - https://en.wikipedia.org/wiki/LendingTree
-* 2. Barclays Website
+* 2. Crunchbase - https://www.crunchbase.com/organization/social-finance#section-funding-rounds
 * 3. Some website
