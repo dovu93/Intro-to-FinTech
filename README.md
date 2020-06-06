@@ -27,16 +27,16 @@
 
 * What specific financial problem is the company or project trying to solve?
 
-  * Initially they were helping students pay for tuition through a low interest rate. Now they are an all in one financial entity. Providing services like a major bank without the brick and mortar restriction. 
+  * Initially they were helping students pay for tuition through a low interest rate. Now they are an all in one financial entity. Providing services like a major bank without the brick and mortar restriction. (i)
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-  * 
+  * They are targeting the everyday cusomer, before they were targeting student loans of professionals poised to make lots of money. (vi) They're treating their customers as humans during the loan application process instead of a number as most traditional banks would. They provide you a loan when others would reject. They also don't pull your credit scores to identify a rate for you. (viii)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-  * Viewport Meta, Iphone/Mobile Compatible, Google Analytics (iii)
+  * Viewport Meta, Iphone/Mobile Compatible, Google Analytics (iii) jQuery, Amazon EC2, Redis, Amazon S3, Kafka, Amazon RDS, Tableau, Jupyter, Android Studio. (ix)
 
 
 ## Landscape:
@@ -94,4 +94,8 @@ What solution does this company offer that their competitors do not or cannot of
 * 3. Crunchbase - https://www.crunchbase.com/organization/social-finance#section-mobile-app-metrics-by-apptopia
 * 4. Craft - https://craft.co/sofi/competitors
 * 5. Forbes - https://www.forbes.com/sites/lawrencewintermeyer/2019/12/26/ten-years-of-fintech-megatrends-for-the-next-decade/#2155058818aa
-
+* 6. Fortune - https://fortune.com/2020/01/28/sofi-new-growth-strategy/
+* 7. The Financial Brand - https://thefinancialbrand.com/65922/sofi-digital-banking-fintech-competition/
+* 8. Student Loan Hero - https://studentloanhero.com/featured/what-is-sofi-super-bowl-commercial/
+* 9. Stackshare - https://stackshare.io/sofi/sofi
+* 10. 
