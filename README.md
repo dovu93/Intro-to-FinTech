@@ -1,5 +1,7 @@
 # Intro to FinTech Assignment
 
+![](https://s3-eu-west-1.amazonaws.com/tpd/logos/5605d6460000ff000583b7d2/0x0.png)
+
 ## Overview and Origin
 
 * Name of company
